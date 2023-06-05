@@ -1,3 +1,3 @@
-# encriptadord
+# encriptador
 
 FIN

@@ -30,7 +30,7 @@ main{
 }
 
 .mensaje{
-    background: #e1e4ea;
+    background: white;
     background-image: url(imagenes/Muñeco.png);
     background-position: center;
     background-repeat: no-repeat;
